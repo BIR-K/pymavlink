@@ -2008,6 +2008,7 @@ mode_mapping_rover = {
     5 : 'LOITER',
     6 : 'FOLLOW',
     7 : 'SIMPLE',
+    8 : 'SNIFF', # BIR Team K 'Sniff' control mode
     10 : 'AUTO',
     11 : 'RTL',
     12 : 'SMART_RTL',
